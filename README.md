@@ -7,7 +7,9 @@ Join for invite to bi-weekly calls
 
 
 **6/22/2022 10AM UTC - LSP Spec Meeting**
-**Attendees:** John Carvalho, Zero Fee Routing, Yaacov Slama, Reza Bendegi, Severin Buhler (lnrouter.app), Pavel Nikolov, Nick Slaney
+
+**Attendees:** 
+John Carvalho, Zero Fee Routing, Yaacov Slama, Reza Bendegi, Severin Buhler (lnrouter.app), Pavel Nikolov, Nick Slaney
 Notes by Nick Slaney
 
 Reza looked at Yaacov’s specs
@@ -41,7 +43,9 @@ API could use liquidity ads, or communicate out of band (onion messages/bolt12?)
 
 
 **6/8/2022 10AM UTC - LSP Spec Meeting**
-**Attendees:** Bosch, John Carvalho (Blocktank), Reza Bandegi (Blocktank), Pavel Nikolov, Akiba Slama (Breez), Roy Sheinfeld (Breez), Lucas de C. Ferreira (LL)
+
+**Attendees:** 
+Bosch, John Carvalho (Blocktank), Reza Bandegi (Blocktank), Pavel Nikolov, Akiba Slama (Breez), Roy Sheinfeld (Breez), Lucas de C. Ferreira (LL)
 Notes by Nick Slaney
 
 Want to make APIs common
