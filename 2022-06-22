@@ -1,0 +1,34 @@
+
+**2022-06-2022 10AM UTC - LSP Spec Meeting**
+
+**Attendees:** 
+John Carvalho, Zero Fee Routing, Yaacov Slama, Reza Bendegi, Severin Buhler (lnrouter.app), Pavel Nikolov, Nick Slaney
+Notes by Nick Slaney
+
+Reza looked at Yaacov’s specs
+Blocktank allows user to request LSP channel with channel specs
+- Channel is set up before user makes any payments
+Breez works by user telling LSP about a payment they’re looking to receive and LSP opens channel and takes fee in line
+- Payee can decide not to accept LSP feerate, and channel is not opened
+- LSP decides channel size
+- User could request different channel size
+Breez shares payment secret with LSP
+- Payment secret is not the preimage
+- Payment secret = payment address
+How does breez choose what size channel to make when requested?
+Where is trust in the system?
+- Blocktank – user trusts LSP to open channel
+-- Might be able to make this trustless
+-- Allow user to pay on-chain, LSP opens channel from there
+- Breez – user does not have to trust LSP
+API should provide fee information etc.
+Fees
+- Different ways user could want to pay fees
+- Upfront
+- Only routing fees– likely opened from user
+- Combo – tiers, other methods, feerates, lending rates etc.
+- Recurring channel maintenance fees
+-- Could signal counterparty the need to pay a fee to keep channel open
+-- Could raise fees with inactivity
+- User can check on channel lease, – or LSP can signal to user
+API could use liquidity ads, or communicate out of band (onion messages/bolt12?), potentially offer combination of both
