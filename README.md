@@ -3,12 +3,17 @@
 **Group Chats:** 
 
 Join these for invites to bi-weekly calls.
+
+
 LSP Spec Group: https://t.me/LSPstandards
+
 Web Spec Group: https://t.me/bitcoinandlightningspecs
+
 
 **Website:** 
 
 https://balls.dev
+
 
 **Meeting Notes:**
 
