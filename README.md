@@ -15,6 +15,15 @@ Web Spec Group: https://t.me/bitcoinandlightningspecs
 https://balls.dev
 
 
+**FUTURE TOPICS:** 
+
+- Channel Marketplace API
+- Swaps (Peerswap, Loop, etc)
+- Splicing/JITsplicing
+- Offline Payments (HTLC forwarding)
+- Watchtowers
+
+
 **Meeting Notes:**
 
 ****2022-08-03 - LSP Spec Meeting**
