@@ -6,9 +6,10 @@ Join these for invites to bi-weekly calls.
 
 
 LSP Spec Group: https://t.me/LSPstandards
+Current Topic: Marketplace Specs
 
 Web Spec Group: https://t.me/bitcoinandlightningspecs
-
+Current Topics: BIP-0021 extension, 0conf practices
 
 **Website:** 
 
@@ -25,6 +26,12 @@ https://balls.dev
 
 
 **Meeting Notes:**
+
+**2022-09-28 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2022-09-28.md
+
+**2022-09-23 - Web Spec Meeting**
 
 **2022-09-14 - LSP Spec Meeting**
 
