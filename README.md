@@ -24,8 +24,11 @@ https://balls.dev
 - Offline Payments (HTLC forwarding)
 - Watchtowers
 
-
 **Meeting Notes:**
+
+**2022-10-19 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2022-10-19.md
 
 **2022-09-28 - LSP Spec Meeting**
 
