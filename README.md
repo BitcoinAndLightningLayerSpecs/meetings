@@ -26,6 +26,10 @@ https://balls.dev
 
 **Meeting Notes:**
 
+**2022-12-07 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2022-12-07.md
+
 **2022-11-23 - LSP Spec Meeting**
 
 https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2022-11-23.md
