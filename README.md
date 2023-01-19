@@ -16,15 +16,11 @@ Current Topics: BIP-0021 extension, 0conf practices
 https://balls.dev
 
 
-**FUTURE TOPICS:** 
-
-- Channel Marketplace API
-- Swaps (Peerswap, Loop, etc)
-- Splicing/JITsplicing
-- Offline Payments (HTLC forwarding)
-- Watchtowers
-
 **Meeting Notes:**
+
+**2023-01-18 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-01-18.md
 
 **2022-12-07 - LSP Spec Meeting**
 
