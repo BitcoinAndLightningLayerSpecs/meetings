@@ -18,6 +18,10 @@ https://balls.dev
 
 **Meeting Recordings & Notes:**
 
+**2023-03-15 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/commit/5ae5be2c11f264279ecdf2ca9f3a181e082f5585
+
 **2023-03-01 - LSP Spec Meeting**
 
 https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-03-01.md
