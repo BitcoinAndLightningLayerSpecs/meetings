@@ -24,7 +24,7 @@ https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-22-03.m
 
 **2023-03-15 - LSP Spec Meeting**
 
-https://github.com/BitcoinAndLightningLayerSpecs/meetings/commit/5ae5be2c11f264279ecdf2ca9f3a181e082f5585
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-15-03.md
 
 **2023-03-01 - LSP Spec Meeting**
 
