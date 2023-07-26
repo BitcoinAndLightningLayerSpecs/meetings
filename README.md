@@ -15,6 +15,10 @@ Current Topics: BIP-0021 extension, 0conf practices
 
 https://balls.dev
 
+**2023-07-26 - LSP Spec Meeting**
+
+https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-07-26.md
+
 **2023-07-13 - LSP Spec Meeting**
 
 https://github.com/BitcoinAndLightningLayerSpecs/meetings/blob/main/2023-07-13.md
