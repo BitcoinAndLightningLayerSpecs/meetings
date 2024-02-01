@@ -17,6 +17,8 @@ https://balls.dev
 
 **Meeting Recordings & Notes:**
 
+[**2024-02-01 - LSP Spec Meeting**](2024-02-01.md)
+
 [**2024-01-18 - LSP Spec Meeting**](2024-01-18.md)
 
 [**2024-01-04 - LSP Spec Meeting**](2024-01-04.md)
