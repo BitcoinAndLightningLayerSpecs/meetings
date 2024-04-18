@@ -14,7 +14,7 @@ https://balls.dev
 
 [**2024-04-18 - LSP Spec Meeting**](2024-04-18.md)
 
-[**2024-04-03 - LSP Spec Meeting**](2024-04-03.md)
+[**2024-04-03 - LSP Spec Meetup**](2024-04-03.md)
 
 [**2024-03-21 - LSP Spec Meeting**](2024-03-21.md)
 
